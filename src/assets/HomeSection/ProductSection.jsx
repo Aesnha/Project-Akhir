@@ -9,7 +9,7 @@ export default function ProductSection() {
             OUR PRODUCTS </h2>
             
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-15 p-4 ">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-15p p-4 ">
         <div className="bg-[#8FB3E2] p-8 rounded-lg shadow-lg shadow-grey-500 hover:shadow-[#1E2E4F]">
             <div className='font-4xl text-center font-semibold'>
                 <p className='font-montserrat text-white'>COOLIN WHITE</p>
