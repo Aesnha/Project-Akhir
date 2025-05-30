@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function AboutSection() {
-  return ( //[#192338] [#D9E1F1] [#31487A] [#8FB3E2] [#1E2E4F]
+  return ( 
   <section class="bg-[#192338] py-16 px-6 md:px-20">
   <div class="max-w-5xl mx-auto text-center shadow-lg">
     <h2 class="text-4xl font-bold font-montserrat text-[#D9E1F1]  p-4 mb-4">ABOUT US</h2>

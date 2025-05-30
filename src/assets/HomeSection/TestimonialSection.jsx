@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function TestimonialSection() {
-  return ( //[#192338] [#D9E1F1] [#31487A] [#8FB3E2] [#1E2E4F]
+  return ( 
      <section id="testimonials" className="py-20 bg-[#192338]">
         <div className="container mx-auto px-4 bg-[#31487A] rounded-se-full">
           <div className="text-center mb-16 mx-auto rounded-full items-center justify-center ">
