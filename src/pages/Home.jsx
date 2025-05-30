@@ -1,15 +1,17 @@
 import React from 'react'
-import HeroSection from '../Component/HomeSection/HeroSection'
-import AboutSection from '../Component/HomeSection/AboutSection'
-import ProductSection from '../Component/HomeSection/ProductSection'
-import TestimonialSection from '../Component/HomeSection/TestimonialSection'
+import HeroSection from '../assets/HomeSection/HeroSection';
+import AboutSection from '../assets/HomeSection/AboutSection';
+import TestimonialSection from '../assets/HomeSection/TestimonialSection';
+import ProductSection from '../assets/HomeSection/ProductSection';
 export default function Home() {
  return (
-    <div className="w-full min-h-screen bg-[#192338]">
-      <div className="flex items-center justify-center h-full text-[#D9E1F1]">
-        <h1>Hello World</h1>
-      </div>
-    </div>
+  //HeroSection [#192338] [#D9E1F1] [#31487A] [#8FB3E2] [#1E2E4F]
+ <>
+ <HeroSection/> <AboutSection/> <ProductSection/> <TestimonialSection/> 
+ </>
+
+    //AboutSection
+    
   );
 
 }
