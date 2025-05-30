@@ -11,11 +11,11 @@ export default function AboutSection() {
     </p>
     <div class="flex flex-col md:flex-row items-center justify-center gap-8">
       <div class="w-full md:w-1/3">
-        <img src="CoolIn.jpeg" alt="My Photo" class="rounded-2xl shadow-lg mx-auto" />
+        <img src="KC.png" alt="My Photo" class="rounded-2xl shadow-lg mx-auto" />
       </div>
       <div class="w-full md:w-2/3 text-left pb-8">
         <p class="text-[#D9E1F1] mb-4">
-         Karena kami percaya, minuman dingin itu lebih dari sekadar rasa, itu adalah energi, semangat, dan kenyamanan yang kamu butuhkan setiap hari.
+         Terbuat dari teknologi terbaru sehingga air di dalam tumbler akan senantiasa dingin.
         </p>
        <h1 className='text-[#D9E1F1]'>COOL.IN bukan hanya tumbler, tapi penyegar hidupmu.</h1>
          <button className='p-4 items-center justify-center text-center px-6 py-3 border-white 
