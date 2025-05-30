@@ -10,7 +10,7 @@ export default function Layout() {
           </div>
           <ul className="flex space-x-4 text-[#D9E1F1]">
             <li>
-              <a href="/home">Home</a>
+              <a href="/">Home</a>
             </li>
             <li>
               <a href="/product">Product</a>

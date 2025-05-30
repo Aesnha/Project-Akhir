@@ -4,7 +4,7 @@ import Layout from "./components/layout";
 import Product from "./pages/Product";
 import Contact from "./pages/Contact";
 import AboutUs from "./pages/AboutUs";
-``
+
 function App() {
   return (
     <>
